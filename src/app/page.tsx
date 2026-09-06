@@ -8,7 +8,7 @@ export default async function Home() {
       <div className="w-full flex items-center flex-col justify-center">
         <Image width={300} height={300} src="/whiterangvelogo.png" className="mb-5" alt="Logo" />
 
-          <h1 className="w-screen py-3 font-bold text-7xl sm:text-9xl bg-white mix-blend-lighten uppercase text-center">
+          <h1 className="w-screen text-[#008B8B] py-3 font-bold text-7xl sm:text-9xl bg-white mix-blend-lighten uppercase text-center">
             Coming Soon
           </h1>
 
